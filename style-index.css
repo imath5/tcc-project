@@ -4,6 +4,10 @@ body {
     margin: 0;
 }
 
+h1 {
+    text-align: center;
+}
+
 .card {
     box-shadow: 1px 1px 5px #ccc;
     background-color: white;
