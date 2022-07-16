@@ -1,0 +1,24 @@
+{
+  "name": "tcc-project-v3",
+  "version": "1.0.0",
+  "description": "aplicacao-web-conversao-de-horas-extra-e-comp",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imath5/tcc-project.git"
+  },
+  "author": "Matheus S Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imath5/tcc-project/issues"
+  },
+  "homepage": "https://github.com/imath5/tcc-project#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1"
+  }
+}
