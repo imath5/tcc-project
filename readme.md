@@ -2,7 +2,7 @@ FUNCIONALIDADE NO AVA – SISTEMA DE HORAS COMPLEMENTARES E DE EXTENSÃO usando 
 
 *EM DESENVOLVIMENTO* PROJETO DE TCC - ENGENHARIA DE COMPUTAÇÃO - UFMT
 
-some ideas to to work/study with for implemment
+some ideas to work/study with for implemment
 BOOTSTRAP
 NODE.JS – BACK
 MONGO DB /FIREBASE – DB
